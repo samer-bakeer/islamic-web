@@ -1,8 +1,4 @@
 
-  # Islamic Spiritual Companion App
-
-  This is a code bundle for Islamic Spiritual Companion App. The original project is available at https://www.figma.com/design/KdNOiHJWxNKgcKw502t0iC/Islamic-Spiritual-Companion-App.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
